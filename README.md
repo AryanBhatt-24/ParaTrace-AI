@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">🧠 ParaTrace-Ai</h1>
 <p align="center">
   <b>AI-Powered Content Integrity Suite</b><br>
@@ -110,13 +109,10 @@ Or serve via local development server
 
 🤝 Team Members
 
-Aryan Bhatt
-
-Arpan Sharma
-
-Abhishek Singh
-
-Shubham Bisht
+Aryan Bhatt  
+Arpan Sharma  
+Abhishek Singh  
+Shubham Bisht  
 
 🙌 Contributing
 
@@ -129,8 +125,8 @@ Please fork this repo and submit a pull request. For significant changes, open a
 
 📧 Email: aryanbhatt502@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/aryanbhatt01
+🔗 LinkedIn: www.linkedin.com/in/aryanbhatt01
 
-💻 GitHub: github.com/AryanBhatt-24
+💻 GitHub: www.github.com/AryanBhatt-24
 
 “Originality matters. Let AI work for you — not against you.”
