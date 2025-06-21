@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">🧠 ParaTrace-Ai</h1>
 <p align="center">
   <b>AI-Powered Content Integrity Suite</b><br>
