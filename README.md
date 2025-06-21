@@ -42,9 +42,13 @@
 
 ParaTrace-Ai/
 ├── backend/ # Spring Boot REST APIs
+
 ├── ai-service/ # Python microservices for AI tasks
+
 ├── frontend/ # HTML/CSS/JS frontend
+
 ├── database/ # SQL schema and scripts
+
 └── README.md
 
 ### ✅ Prerequisites
@@ -82,6 +86,7 @@ Open frontend/index.html in a browser
 Or serve via local development server
 
 🛡️ Security Features
+
 🔐 JWT-based Authentication system
 
 🧂 BCrypt password hashing for passwords
@@ -91,6 +96,7 @@ Or serve via local development server
 🧑‍⚖️ Role-based access control (admin/user)
 
 🛠️ Future Enhancements
+
 📎 Support for PDF/DOCX file uploads & analysis
 
 🌐 Multi-language content detection
@@ -102,19 +108,28 @@ Or serve via local development server
 🌍 Browser extension integration
 
 🤝 Team Members
+
 Aryan Bhatt
+
 Arpan Sharma
+
 Abhishek Singh
+
 Shubham Bisht
 
 🙌 Contributing
+
 We welcome all contributions!
 Please fork this repo and submit a pull request. For significant changes, open an issue first.
 
 📬 Contact
+
 👤 Author: Aryan Bhatt
+
 📧 Email: aryanbhatt502@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/aryanbhatt01
+
 💻 GitHub: github.com/AryanBhatt-24
 
 “Originality matters. Let AI work for you — not against you.”
